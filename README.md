@@ -32,7 +32,7 @@ make
 
 ### **3. Load the Kernel Modules**
 ```bash
-sudo insmod 9x_mutex.ko  # Replace with 9x_hpspinlock.ko or 9x_reentrant.ko
+sudo insmod 9x_abcd.ko  # Replace with 9x_hpspinlock.ko or 9x_reentrant.ko
 ```
 
 ### **4. Run the Test Application**
