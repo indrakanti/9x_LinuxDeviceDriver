@@ -1,4 +1,4 @@
-# 9x Character Device Driver
+# 9x udev
 
 ## Overview
 This project provides an implementation of a simple character device driver for Linux, designed to interact with user-space programs.
