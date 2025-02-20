@@ -49,6 +49,6 @@ dmesg | tail -n 50
 This project is open to contributions! Feel free to experiment, modify, and enhance the drivers and applications.
 
 ## **License**
-This project is released under the **GPL v2** license.
+This project is released under the "what ever" license.
 
 🚀 **Happy Learning!** 🚀
